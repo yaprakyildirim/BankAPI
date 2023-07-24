@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CohortsHW.YaprakYildirim.API", "CohortsHW.YaprakYildirim.API\CohortsHW.YaprakYildirim.API.csproj", "{B053CF2D-5DEE-44F5-BFF8-20F03E6F7DBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CohortsHW.YaprakYildirim.Business", "CohortsHW.YaprakYildirim.Business\CohortsHW.YaprakYildirim.Business.csproj", "{88015207-38F1-4E56-B6F3-0CE2E2BA7E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B053CF2D-5DEE-44F5-BFF8-20F03E6F7DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B053CF2D-5DEE-44F5-BFF8-20F03E6F7DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B053CF2D-5DEE-44F5-BFF8-20F03E6F7DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B053CF2D-5DEE-44F5-BFF8-20F03E6F7DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88015207-38F1-4E56-B6F3-0CE2E2BA7E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88015207-38F1-4E56-B6F3-0CE2E2BA7E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88015207-38F1-4E56-B6F3-0CE2E2BA7E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88015207-38F1-4E56-B6F3-0CE2E2BA7E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8869D8-5D53-45CB-9A41-18BCE28D587F}
+	EndGlobalSection
+EndGlobal
